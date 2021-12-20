@@ -16,8 +16,8 @@ Also, it is less expensive & beginner-friendly.
 
 # Circuit Diagram
 
+![146635167-1adbc624-0140-444f-b14c-eb33bedc723f](https://user-images.githubusercontent.com/76148902/146767091-15fe3110-a9f5-4a37-b680-3560c84ad473.png)
 
-[146635167-1adbc624-0140-444f-b14c-eb33bedc723f](https://user-images.githubusercontent.com/76148902/146766497-6120b355-3ec5-4ae6-940e-81c24b1fe94b.png)>
 
 # Code
 
