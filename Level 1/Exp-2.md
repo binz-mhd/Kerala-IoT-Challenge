@@ -53,3 +53,5 @@ digitalWrite(redled, LOW);// turn off red LED
 ```
 
 # Output
+
+![2](https://user-images.githubusercontent.com/76148902/147094652-2dfb6a8c-b46a-4528-873f-c534c70f044c.jpg)
