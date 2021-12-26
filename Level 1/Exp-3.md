@@ -4,7 +4,7 @@ We often see billboards composed of colorful LEDs. They are constantly changing 
 In this experiment, we compile a program to simulate LED chasing effect.
 The long lead of LED is the positive side; short lead is negative.
 
-### Components Required 
+### Components Required.
 
 1* Arduino Uno Board x1
 2* USB Cable x1
