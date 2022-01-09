@@ -6,13 +6,13 @@ Actually, these two experiments are similar. While in this traffic lights experi
 ### Components Required 
 
 1* Arduino Uno Board x1 <br>
-2* USB Cable x1
-3* Red M5 LED x1
-4* Yellow M5 LED x1
-5* Green M5 LED x1
-6* 220Ω resistor x3
-7* Breadboard x1
-8* Breadboard jumper wires x several
+2* USB Cable x1 <br>
+3* Red M5 LED x1 <br>
+4* Yellow M5 LED x1 <br>
+5* Green M5 LED x1 <br>
+6* 220Ω resistor x3 <br>
+7* Breadboard x1 <br>
+8* Breadboard jumper wires x several <br>
 
 
 # Circuit Diagram
