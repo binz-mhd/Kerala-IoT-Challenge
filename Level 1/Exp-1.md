@@ -7,12 +7,12 @@ Also, it is less expensive & beginner-friendly.
 
 ### Components Required 
 
-1* Arduino Uno Board
-2* USB Cable
-3* LED (Any Color) x 1 Nos
-4* 220 OHM Resistor X 1 Nos
-5* Breadboard
-6* Jumper Wires (Male to Male ) X 2 Nos
+1* Arduino Uno Board<br>
+2* USB Cable<br>
+3* LED (Any Color) x 1 Nos<br>
+4* 220 OHM Resistor X 1 Nos<br>
+5* Breadboard<br>
+6* Jumper Wires (Male to Male ) X 2 Nos<br>
 
 # Circuit Diagram
 
