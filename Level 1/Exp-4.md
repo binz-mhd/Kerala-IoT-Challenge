@@ -3,15 +3,14 @@
 
 ### Components Required.
 
-1* Arduino Uno
-2* Button switch-1
-3* Red M5 LED-1
-4* 220ΩResistor-1
-5* 10KΩ Resistor-1
-6* Breadboard-1
-7* Breadboard Jumper Wire-6
-8* USB cable-1
-
+1* Arduino Uno<br>
+2* Button switch-1<br>
+3* Red M5 LED-1<br>
+4* 220ΩResistor-1<br>
+5* 10KΩ Resistor-1<br>
+6* Breadboard-1<br>
+7* Breadboard Jumper Wire-6<br>
+8* USB cable-1<br>
 
 # Circuit Diagram
 
