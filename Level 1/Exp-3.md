@@ -6,12 +6,12 @@ The long lead of LED is the positive side; short lead is negative.
 
 ### Components Required.
 
-1* Arduino Uno Board x1
-2* USB Cable x1
-3* Led 6
-4* Breadboard wire 13
-5* 220Ω resistor x3
-6* Breadboard x1
+1* Arduino Uno Board x1<br>
+2* USB Cable x1<br>
+3* Led 6<br>
+4* Breadboard wire 13<br>
+5* 220Ω resistor x3<br>
+6* Breadboard x1<br>
 
 
 
