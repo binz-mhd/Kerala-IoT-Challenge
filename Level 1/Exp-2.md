@@ -5,7 +5,7 @@ Actually, these two experiments are similar. While in this traffic lights experi
 
 ### Components Required 
 
-1* Arduino Uno Board x1
+1* Arduino Uno Board x1 <br>
 2* USB Cable x1
 3* Red M5 LED x1
 4* Yellow M5 LED x1
