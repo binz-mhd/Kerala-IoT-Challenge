@@ -1,0 +1,105 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+header{
+    background-color: blueviolet;
+    
+    height: 60px;
+
+}
+ 
+.head{
+      padding-top: 0.5%;
+      font-family: montserrat;
+      color: white;
+      font-size: 1.5rem;
+      text-align: center;
+      position: relative;
+}
+
+.header_box{
+    width: 100%;
+    position: absolute;
+    height: 4rem;
+    background-color: blueviolet;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+body {
+    background-color:aliceblue;
+  }
+   
+.para1{
+     margin: 20px 20px 20px 20px;
+     padding-top: 20px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 1.5rem;
+     position: absolute;
+     text-align: center;
+}
+
+.accordian{
+    position: relative;
+    top: 10rem;
+    left: 25rem;
+    max-width: 1000px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    border-radius:  5px;
+    overflow: hidden;
+    font-family: Quicksand, sans-serif;
+    font-size: 2rem;
+    background-color: blueviolet    ;
+}
+
+.accordian--label,
+.accordian--content{
+    padding: 14px 20px;
+}
+
+.accordian--label{
+    display: block;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+    position: relative;
+    transition: background 0.1s;
+}
+
+.accordian--label:hover {
+    background: rgba(0,0,0,0.1);
+}
+
+.accordian--label::after{
+    content: "";
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 20px;
+    width: 12px;
+    height: 6px;
+    background-image: url('data:image/svg+xml;utf8,<svg width="100" height="50" xmlns="http://www.w3.org/2000/svg"><polygon points="0,0 100,0 50,50" style="fill:%23FFFFFF99;" /></svg>');
+    background-size: contain;
+    transition: transform 0.4s;
+}
+
+.accordian--content {
+  background: white;
+  line-height: 1.6rem;
+  font-size: 0.85em;
+  display: block;
+}
+
+.accordian--input {
+  display: none;
+}
+
+.accordian--input:checked ~.accordian--content {
+  display: block;
+}
+
+.accordian--input:checked ~.accordian--label::after{
+  transform: translateY(-50%) rotate(0.5turn);
+}
